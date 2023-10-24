@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TpVolly</string>
+    <string-array name="villes">
+        <item>Azemmour</item>
+        <item>Eljadida</item>
+        <item>Casa</item>
+        <!-- Ajoutez d'autres villes ici -->
+    </string-array>
+</resources>
